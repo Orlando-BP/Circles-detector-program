@@ -1,0 +1,16 @@
+C:\Users\orlan\source\repos\DetectorDeCirculos\bin\Debug\netcoreapp3.1\DetectorDeCirculos.exe
+C:\Users\orlan\source\repos\DetectorDeCirculos\bin\Debug\netcoreapp3.1\DetectorDeCirculos.deps.json
+C:\Users\orlan\source\repos\DetectorDeCirculos\bin\Debug\netcoreapp3.1\DetectorDeCirculos.runtimeconfig.json
+C:\Users\orlan\source\repos\DetectorDeCirculos\bin\Debug\netcoreapp3.1\DetectorDeCirculos.runtimeconfig.dev.json
+C:\Users\orlan\source\repos\DetectorDeCirculos\bin\Debug\netcoreapp3.1\DetectorDeCirculos.dll
+C:\Users\orlan\source\repos\DetectorDeCirculos\bin\Debug\netcoreapp3.1\DetectorDeCirculos.pdb
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.csproj.AssemblyReference.cache
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.FormInicio.resources
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.csproj.GenerateResource.cache
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.AssemblyInfoInputs.cache
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.AssemblyInfo.cs
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.csproj.CoreCompileInputs.cache
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.dll
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.pdb
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.genruntimeconfig.cache
+C:\Users\orlan\source\repos\DetectorDeCirculos\obj\Debug\netcoreapp3.1\DetectorDeCirculos.VentanaAnalisis.resources
